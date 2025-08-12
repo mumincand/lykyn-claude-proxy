@@ -1,8 +1,8 @@
 
 
 const ALLOWED_ORIGINS = [
-  "https://www.coracaoconfections.com",
-  "https://coracao-confections-2.myshopify.com",
+  "https://lykyn.com/",          
+  "https://a499ce-5.myshopify.com",
 ];
 
 function setCors(res, origin) {
